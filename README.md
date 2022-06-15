@@ -1,1 +1,21 @@
-# Ajani-Oyesiji-Baby-step-in-Data-Analysis
+# Project Name: Baby step
+
+
+
+....
+# PRoject Objecives: Problem statement
+
+
+
+...
+# Data Sourcing
+
+
+
+
+...
+# Data Transformation
+
+
+...
+#  Findings and recommendation
